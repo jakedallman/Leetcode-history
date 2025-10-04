@@ -1,2 +1,5 @@
 # Leetcode-history
-A collection of my Leetcode solutions, meant for verifications.
+A collection of my Leetcode solutions, meant so that anybody can see that I have done these Leetcodes.
+I've done 56 easies, 41 mediums, and 2 hards.
+On average, my easy solutions beat 79.52% of other solutions; my medium solutions beat 70.99% of solutions; and my hards beat 20.58% (low sample size.) Interpretation of these numbers for should remember that this is generally a tool for CS undergrads, graduates, and professionals.
+
